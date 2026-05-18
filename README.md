@@ -14,4 +14,4 @@ Aplicação web que busca endereços a partir do CEP usando a API pública ViaCE
 3. Digite um CEP e clique em Buscar
 
 ## API utilizada
-[ViaCEP](https://viacep.com.br/)" > README.md
+[ViaCEP](https://viacep.com.br/)"
